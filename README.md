@@ -1,12 +1,18 @@
-Project Code: WST21-PM-2026-SF"
+# PERSONAL TASK MANAGER
 
-Student Name: ALEXIS POTAL
+# Project Code
+ WST21-PM-2026-SF"
 
-Course & Year: BSIT 2 YEAR
+# Student Name
+ ALEXIS POTAL
 
-Database Used: SQLite
+# Course & Year
+ BSIT 2 YEAR
 
-Features:
+# Database Used
+ SQLite
+
+# Features
 - Add Task
 - View Tasks
 - Edit Task
@@ -14,7 +20,7 @@ Features:
 - Update Status
 
 
-# TASK MANAGER
+
 
 ## TASK MANAGER
 ![Task Manager](app/screenshots/image-1.png)
