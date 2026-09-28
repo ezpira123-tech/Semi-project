@@ -1,6 +1,6 @@
 Project Code: WST21-PM-2026-SF"
 
-Student Name: ALEXIS
+Student Name: ALEXIS POTAL
 
 Course & Year: BSIT 2 YEAR
 
