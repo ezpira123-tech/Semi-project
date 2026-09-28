@@ -1,17 +1,19 @@
-TASK MANAGER
-![alt text](image-1.png)
+# TASK MANAGER
 
-CREATE TASK
-![alt text](image-2.png)
+## TASK MANAGER
+![Task Manager](app/screenshots/image-1.png)
 
-CREATED TASK
-![alt text](image-3.png)
+## CREATE TASK
+![Create Task](app/screenshots/image-2.png)
 
-EDIT TASK
-![alt text](image-4.png)
+## CREATED TASK
+![Created Task](app/screenshots/image-3.png)
 
-TASK EDITED
-![alt text](image-5.png)
+## EDIT TASK
+![Edit Task](app/screenshots/image-4.png)
 
-DELETE TASK
-![alt text](image-6.png)
+## TASK EDITED
+![Task Edited](app/screenshots/image-5.png)
+
+## DELETE TASK
+![Delete Task](app/screenshots/image-6.png)
